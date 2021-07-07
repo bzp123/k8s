@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kube-cross:v1.13.9-2
+FROM k8s.gcr.io/kube-cross:v1.13.9-2
