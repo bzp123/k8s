@@ -1,1 +1,1 @@
-FROM bitnami/redis:6.2.7-debian-11-r11
+FROM registry.k8s.io/nfd/node-feature-discovery:v0.14.2
